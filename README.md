@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm handongLee</h1>
-<h3 align="center">Yeungnam University, Computer engineering student from India</h3>
+<h3 align="center">Yeungnam University, Computer engineering student </h3>
 
 - 📫 How to reach me **wydl1108@gmail.com**
 
